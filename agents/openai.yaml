@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proof of Done"
+  short_description: "验证软件是否真正完成、可安装、可使用并具备交付证据"
+  default_prompt: "Use $proof-of-done to verify this software is genuinely complete and deliverable."
